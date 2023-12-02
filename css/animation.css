@@ -1,0 +1,112 @@
+/*
+Larry Daniels
+Developer
+Designer
+*/
+
+h1 span::after {
+    content: " |";
+    animation-name: typing ;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes typing {
+    1% {content: "L|";}
+    2% {content: "La|";}
+    3% {content: "Lar|";}
+    4% {content: "Larr|";}
+    5% {content: "Larry|";}
+    6% {content: "Larry D|";}
+    7% {content: "Larry Da|";}
+    8% {content: "Larry Dan|";}
+    9% {content: "Larry Dani|";}
+    10% {content: "Larry Danie|";}
+    11% {content: "Larry Daniel|";}
+    12% {content: "Larry Daniels|";}
+    13% {content: "Larry Daniel|";}
+    14% {content: "Larry Danie|";}
+    15% {content: "Larry Dani|";}
+    16% {content: "Larry Dan|";}
+    17% {content: "Larry Da|";}
+    18% {content: "Larry D|";}
+    19% {content: "Larry |";}
+    20% {content: "Larr|";}
+    21% {content: "Lar|";}
+    22% {content: "La|";}
+    23% {content: "L|";}
+    24% {content: "|";}
+    25% {content: "D|";}
+    26% {content: "De|";}
+    27% {content: "Dev|";}
+    28% {content: "Deve|";}
+    29% {content: "Devel|";}
+    30% {content: "Develo|";}
+    31% {content: "Develop|";}
+    32% {content: "Develope|";}
+    33% {content: "Developer|";}
+    34% {content: "Develope|";}
+    35% {content: "Develop|";}
+    36% {content: "Develo|";}
+    37% {content: "Devel|";}
+    38% {content: "Deve|";}
+    39% {content: "Dev|";}
+    40% {content: "De|";}
+    41% {content: "D|";}
+    42% {content: "De|";}
+    43% {content: "Des|";}
+    44% {content: "Desi|";}
+    45% {content: "Desig|";}
+    46% {content: "Design|";}
+    47% {content: "Designe|";}
+    48% {content: "Designer|";}
+    49% {content: "Designe|";}
+    50% {content: "Design|";}
+    51% {content: "Desig|";}
+    52% {content: "Desi|";}
+    53% {content: "Des|";}
+    54% {content: "De|";}
+    55% {content: "D|";}
+    56% {content: "|";}
+    57% {content: "L|";}
+    58% {content: "La|";}
+    59% {content: "Lar|";}
+    60% {content: "Larr|";}
+    61% {content: "Larry|";}
+    62% {content: "Larry D|";}
+    63% {content: "Larry Da|";}
+    64% {content: "Larry Dan|";}
+    65% {content: "Larry Dani|";}
+    66% {content: "Larry Danie|";}
+    67% {content: "Larry Daniel|";}
+    68% {content: "Larry Daniels|";}
+    70% {content: "Larry Daniel|";}
+    71% {content: "Larry Danie|";}
+    72% {content: "Larry Dani|";}
+    73% {content: "Larry Dan|";}
+    75% {content: "Larry Da|";}
+    76% {content: "Larry D|";}
+    77% {content: "Larry |";}
+    78% {content: "Larr|";}
+    79% {content: "Lar|";}
+    80% {content: "La|";}
+    81% {content: "L|";}
+    82% {content: "|";}
+    83% {content: "D|";}
+    84% {content: "De|";}
+    85% {content: "Dev|";}
+    86% {content: "Deve|";}
+    87% {content: "Devel|";}
+    88% {content: "Develo|";}
+    89% {content: "Develop|";}
+    90% {content: "Develope|";}
+    91% {content: "Developer|";}
+    92% {content: "Develope|";}
+    93% {content: "Develop|";}
+    94% {content: "Develo|";}
+    95% {content: "Devel|";}
+    96% {content: "Deve|";}
+    97% {content: "De|";}
+    98% {content: "D|";}
+    100% {content: " |";}
+}
